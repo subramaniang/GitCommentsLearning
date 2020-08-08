@@ -1,2 +1,0 @@
-# GitCommentsLearning
-asdf
