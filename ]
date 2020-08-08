@@ -1,0 +1,11 @@
+Revert "Revert "Create README.md" for learning first time"
+
+This reverts commit c5709566df1912896695aa6fc4d00feb60c8ad6d.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   README.md
+#
